@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "귀여운 토마토",
+            "provider": "티셔츠 나라",
+            "price": 22000,
+            "image": "/images/스크린샷1.png"
+        },
+        {
+            "id": 2,
+            "name": "귀여운 거북이",
+            "provider": "티셔츠 나라",
+            "price": 23000,
+            "image": "/images/스크린샷2.png"
+        },
+        {
+            "id": 3,
+            "name": "귀여운 파란티",
+            "provider": "티셔츠 나라",
+            "price": 26000,
+            "image": "/images/스크린샷3.png"
+        },
+        {
+            "id": 4,
+            "name": "귀여운 고양이",
+            "provider": "티셔츠 나라",
+            "price": 21000,
+            "image": "/images/스크린샷4.png"
+        },
+        {
+            "id": 5,
+            "name": "귀여운 벌",
+            "provider": "티셔츠 나라",
+            "price": 23000,
+            "image": "/images/스크린샷5.png"
+        }
+    ]
+}
